@@ -1,8 +1,8 @@
 ---
 title: "Classical vs exotic physic intuitions"
-collection: teaching
+collection: philosophy
 type: "Essay"
-permalink: /philosophy/2014-spring-teaching-1
+permalink: /philosophy/philo-1
 venue: "Zurich"
 date: 2024-05-11
 location: "Zurich, Switzerland"

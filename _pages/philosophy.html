@@ -2,6 +2,7 @@
 layout: archive
 title: "Philosophy"
 permalink: /philosophy/
+author_profile: true
 ---
 
 
@@ -10,6 +11,6 @@ Ceci est un autre test
 
 {% include base_path %}
 
-{% for post in site._philosophy reversed %}
+{% for post in site.philosophy reversed %}
   {% include archive-single.html %}
 {% endfor %}

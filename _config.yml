@@ -12,9 +12,9 @@ title                    : "Le site / de Mathis Reymond"
 title_separator          : "-"
 name                     : &name "Mathis Reymond"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mathisnplus1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Mathisnplus1/mathisnplus1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -202,6 +202,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  philosophy:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -237,6 +240,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _philosophy
+  - scope:
+      path: ""
+      type: philosophy
     values:
       layout: single
       author_profile: true
