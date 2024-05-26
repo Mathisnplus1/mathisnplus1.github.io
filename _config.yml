@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Le site / de Mathis Reymond"
+title                    : "Mathis Reymond"
 title_separator          : "-"
 name                     : &name "Mathis Reymond"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "Mathisnplus1/mathisnplus1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : "Mathis Reymond"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "M.Sc. student in mathematics & artificial learning"
+  location         : #"Earth"
+  employer         : "ENS Paris-Saclay"
   uri              : # URL
   email            : "mathis.reymond74@gmail.com" 
 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
