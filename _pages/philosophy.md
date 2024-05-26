@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Philosophy"
+permalink: /philosophy/
 author_profile: true
 ---
 
