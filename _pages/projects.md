@@ -5,7 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+---
+## 2018-2020
+Learning Olympiad-level mathematics
+{% linkpreview "https://www.mathraining.be/users/1547" %}
 
-I'm currently cooking up this webpage, it'll be worth the wait !
-
-![cooking](/images/cooking.gif)
