@@ -28,5 +28,5 @@ group :jekyll_plugins do
 
   gem 'tzinfo-data'
   gem 'tzinfo'
-  gem 'jekyll-linkpreview'
+  # gem 'jekyll-linkpreview'
 end

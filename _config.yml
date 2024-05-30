@@ -302,7 +302,6 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - tzinfo
-  - jekyll-linkpreview
 
 # mimic GitHub Pages with --safe
 whitelist:
