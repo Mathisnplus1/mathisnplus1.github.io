@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-## [https://www.asvz.ch/event/412-sola-stafette](Sola Run) :
+## [Sola Run](https://www.asvz.ch/event/412-sola-stafette) :
 
 May 4th 2024
 

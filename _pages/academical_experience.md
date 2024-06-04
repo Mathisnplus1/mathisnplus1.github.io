@@ -13,10 +13,16 @@ I am currently doing a five-month internship at the [Institute of Neuroinformati
 ---
 ## Research Internship :
 3 months - May 2023 - Jul 2023
-In-depth investigation of Domain Adversarial Neural Networks and refinement most meaningful architecture to deal with highly imbalanced 
+In-depth investigation of Domain Adversarial Neural Networks and refinement of the most meaningful architecture to deal with highly imbalanced High Energy Physics datasets. 
+Improved Domain Adversarial Neural NEtworks by overcoming inherent limitations, after producing a comparative review of several architectures.
 
 ---
 ## Research Project :
 6 months - Oct. 2022 - Mar. 2023
-preliminary exploration of possible baselines for to approach [https://fair-universe.lbl.gov/](Fair Universe) problem, including MTE et DANN
+
+Creation of an AI toy challenge for the [Fair Universe](https://fair-universe.lbl.gov/) project, which aims at adressing systematic uncertainty in highly imbalanced High Energy Physics datasets.
+
+Led a team of 4 in the conception of an AI toy challenge and the exploration of baseline methods, which has been solved by students from a class of 20.
+
+preliminary exploration of possible baselines for to approach [Fair Universe](https://fair-universe.lbl.gov/) problem, including MTE et Domain Adversarial Neural Networks.
 [paper][GitHub]
