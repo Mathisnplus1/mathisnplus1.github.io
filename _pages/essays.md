@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 
-## Physical origin of intuition an limitation to our understanding of the world
+## About the ability to agree upon models
 
-## Emergence and statistics
+(in progress)
+
+---
+
+## Emergence & modeling
+
+(in progress)
