@@ -6,8 +6,18 @@ author_profile: true
 ---
 
 ---
-## [Sola Run](https://www.asvz.ch/event/412-sola-stafette) :
 
-May 4th 2024
-
-I represented the Institute of Neuroinformatics, along with 13 of my colleages, during this 110km long COURSE DE RELAI. It has been an amazing day which obviously has been conclued by a lab BBQ. Many thanks to ASVZ for their amazing job at organizing this event !
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <h2>SOLA Run</h2>
+    <ul>
+      <li>May 4, 2024</li>
+      <li>Zurich, Switzerland</li>
+      <li><a href="https://www.asvz.ch/event/412-sola-stafette">SOLA Run</a></li>
+    </ul>
+    <p>I represented the Institute of Neuroinformatics, along with 13 of my colleagues, in this 114 km relay race. It was an amazing day, concluding with a lab BBQ. Many thanks to ASVZ for their outstanding job in organizing this event!</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/sola.png" alt="Run in Central Park" style="max-width: 95%;">
+  </div>
+</div>

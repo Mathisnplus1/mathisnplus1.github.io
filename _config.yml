@@ -21,7 +21,7 @@ repository               : "Mathisnplus1/mathisnplus1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mathis_reymond.png"
   name             : "Mathis Reymond"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. student in mathematics & artificial learning"
@@ -248,7 +248,7 @@ defaults:
   # _philosophy
   - scope:
       path: ""
-      type: philosophy
+      type: essays
     values:
       layout: single
       author_profile: true
