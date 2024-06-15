@@ -15,7 +15,7 @@ author_profile: true
     <img src="/images/MVA_GSP.png" alt="MVA_GSP" style="max-width: 95%;">
   </div>
 </div>
-[[Paper](/files/MVA_GSP.pdf)] [[GitHub](https://github.com/InesVATI/TimeSeries-GraphSignalProcessing)] [Data](https://arxiv.org/abs/1809.01281)
+[[Paper](/files/MVA_GSP.pdf)] [[GitHub](https://github.com/InesVATI/TimeSeries-GraphSignalProcessing)] [[Data](https://arxiv.org/abs/1809.01281)]
 
 ---
 ## Brain Connectome
