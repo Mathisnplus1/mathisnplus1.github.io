@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sharing"
-permalink: /sharing/
+title: "Events"
+permalink: /events/
 author_profile: true
 ---
 

@@ -1,8 +1,11 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /experience/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /experience/
+  - /experience.html
 ---
 
 ---

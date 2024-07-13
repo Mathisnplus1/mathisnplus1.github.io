@@ -27,11 +27,11 @@ main:
   - title: "Sharing"
     url: /sharing/ 
 
-  - title: "Reading"
-    url: /reading/ 
+  - title: "Events"
+    url: /events/ 
 
-  - title: "CV"
-    url: /cv/
+  - title: "Background"
+    url: /background/
     
   #- title: "Guide"
   #  url: /markdown/
