@@ -14,7 +14,7 @@ redirect_from:
 5 months<br>
 Apr. 2024 - present
 
-I am currently doing a five-month internship at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/research/groups/EIS/Research.html) in Zurich as an ETH Zurich student. My research focuses on artificial neurogenesis in the context of hardware-constrained continual learning. Specifically, my team previously developed a neuromorphic hardware chip called [MOSAIC](https://www.nature.com/articles/s41467-023-44365-x) for in-memory computing. I am now investigating the development of a neurogenesis approach to continual learning, which we plan to implement on our MOSAIC architecture.
+I am currently doing a five-month internship at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/research/groups/EIS/Research.html) in Zurich as an ETH Zurich student. My research focuses on artificial neurogenesis in the context of hardware-constrained continual learning. Specifically, my team previously developed a neuromorphic hardware chip called [MOSAIC](https://www.nature.com/articles/s41467-023-44365-x) for in-memory computing. I am now investigating the development of a neurogenesis approach to continual learning, which we plan to implement on our MOSAIC chip.
 
 [[GitHub](https://github.com/Mathisnplus1/Master-Thesis)]
 
@@ -38,7 +38,7 @@ Oct. 2022 - Mar. 2023
 
 The [Fair Universe](https://fair-universe.lbl.gov/) project primarily aims at mitigating systematic uncertainty in High Energy Physics through the elaboration of machine learning challenges.
 
-I have been involved in this project part-time for a preliminary exploration of baselines to tackle systematic uncertainty. Additionnaly, I have been leading a team of 4 in the conception of an machine learning toy challenge which has been solved by students from a class of 20.
+I have been involved in this project part-time for a preliminary exploration of baselines to tackle systematic uncertainty. Additionnaly, I have been leading a team of 4 in the conception of a machine learning challenge which has been solved by students from a class of 20.
 
 [[Paper](/files/Fair_Universe_Toy_Challenge_Report.pdf)] [[GitHub](https://github.com/FairUniverseChallenge/FairUniverseChallenge)] [[Website](https://www.codabench.org/competitions/565/?secret_key=35329465-c378-4483-9564-8a4a4bf617ba)]
 

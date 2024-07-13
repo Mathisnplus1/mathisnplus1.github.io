@@ -24,9 +24,6 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "Sharing"
-    url: /sharing/ 
-
   - title: "Events"
     url: /events/ 
 
