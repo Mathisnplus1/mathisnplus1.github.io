@@ -6,10 +6,18 @@ author_profile: true
 ---
 
 
-## **M.Sc. 2 - Mathematics Applied to Artificial Learning**
+## **M.Sc. 1 - cog-SUP**
+
+- **Institution**: Sorbonne Université, France
+- **Degree**: Cognitive science
+- **Duration**: 2024 - 2025
+- **Minor**: Philosophy
+
+
+## **M.Sc. 2 - MVA (Mathematics, Vision, Apprentissage)**
 
 - **Institution**: École Normale Supérieure de Paris-Saclay, France
-- **Degree**: MVA (Mathematics, Vision, Apprentissage)
+- **Degree**: Mathematics Applied to Artificial Learning
 - **Duration**: 2023 - 2024
 - **Coursework**:
   - Deep Learning
@@ -19,20 +27,20 @@ author_profile: true
   - Algorithms for Time Series
 
 
-## **M.Sc. 1 - Computer Science for Artificial Intelligence**
+## **M.Sc. 1 - Artificial Intelligence**
 
 - **Institution**: Université Paris-Saclay, France
-- **Degree**: Artificial Intelligence
+- **Degree**: Computer Science for Artificial Intelligence
 - **Duration**: 2022 - 2023
 - **Coursework**:
   - Natural Language Processing
   - Machine Learning
 
 
-## **B.Sc. 3 - Mathematics**
+## **B.Sc. 3 - General Mathematics & Applications**
 
 - **Institution**: Université Claude Bernard Lyon 1, France
-- **Degree**: General Mathematics & Applications
+- **Degree**: Mathematics
 - **Duration**: 2021-2022
 - **Minor**: Computer Science 
 

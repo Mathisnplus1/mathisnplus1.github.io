@@ -12,9 +12,9 @@ redirect_from:
 
 ## Research Internship
 5 months<br>
-Apr. 2024 - present
+Apr. 2024 - Aug. 2024
 
-I am currently doing a five-month internship at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/research/groups/EIS/Research.html) in Zurich as an ETH Zurich student. My research focuses on artificial neurogenesis in the context of hardware-constrained continual learning. Specifically, my team previously developed a neuromorphic hardware chip called [MOSAIC](https://www.nature.com/articles/s41467-023-44365-x) for in-memory computing. I am now investigating the development of a neurogenesis approach to continual learning, which we plan to implement on our MOSAIC chip.
+I've done a five-month internship at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/research/groups/EIS/Research.html) in Zurich as an ETH Zurich student. My research focuses on artificial neurogenesis in the context of hardware-constrained continual learning. Specifically, my team previously developed a neuromorphic hardware chip called [MOSAIC](https://www.nature.com/articles/s41467-023-44365-x) for in-memory computing. I am now investigating the development of a neurogenesis approach to continual learning, which we plan to implement on our MOSAIC chip.
 
 [[GitHub](https://github.com/Mathisnplus1/Master-Thesis)]
 

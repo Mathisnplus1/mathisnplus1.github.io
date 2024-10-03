@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 ---
+## ARC Challenge
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: justify; margin-right: 20px;">
+    <p>The Artificial Reasoning Corpus (ARC) is a dataset designed to evaluate machine reasoning capabilities. The <a href="https://arcprize.org/">ARC Prize 2024</a> is an award for advancements in <b>AI reasoning</b>, recognizing innovative research that pushes the boundaries of machine reasoning performance using the ARC dataset. The limited number of samples per puzzle prevents statistical learning of puzzle peculiarities, calling for <b>neuro-symbolic</b> approaches instead. Current methods heavily rely on human-crafted elementary transformations, which are combined in search of the puzzle's transformation, a process that falls short of the challenge's goals. My approach focuses on <b>inductive biases</b>, aiming to let features <b>emerge</b> from a minimal set of constraints with minimal human intervention.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/ARC.png" alt="ARC" style="max-width: 90%;">
+  </div>
+</div>
+[[Paper](/incoming.html)] [[GitHub](/incoming.html)]
+
+---
 ## Graph Signal Processing
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">
@@ -21,7 +33,7 @@ author_profile: true
 ## Brain Connectome
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">
-    <p>In progress.</p>
+    <p>Study of the limitations of a novel <b>Riemannian method</b> for inferring <b>brain connectomes</b> from Diffusion Weighted Imaging (DWI) data, aiming to enhance method's ability to handle <b>fiber crossings</b> effectively. This framework is intended to improve individual <b>tractography</b> methods but still yield doubtable results due to noise in DTI data, when it comes to build a robust average connectome atlas.</p>
   </div>
   <div style="flex: 1;">
     <img src="/images/MVA_brain_connectome.png" alt="MVA_brain_connectome" style="max-width: 95%;">
@@ -33,12 +45,12 @@ author_profile: true
 ## Mathematical Olympiads
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">
-    <p>In progress.</p>
+    <p>I spent the free-time I had during my last 2 years of highscool studying <b>autonomously</b> Olympiad mathematics, on <a href="https://www.mathraining.be">Mathraining</a>. I've took <b>additional courses</b> and attended a summer school to deepen my understanding. In addition, I founded a mathematics club at my high school where I <b>taught Olympiad-level math</b> to other students. I’ve also competed in several <b>contests</b>, and I am proud to have been selected by the <a href="https://maths-olympiques.fr/">POFM</a>, the French organization responsible for preparing students for the <a href="https://www.imo-official.org/">International Mathematical Olympiad</a> (IMO)</p>
   </div>
   <div style="flex: 1;">
-    <img src="none" alt="none" style="max-width: 95%;">
+    <img src="/images/POFM.png" alt="POFM" style="max-width: 95%;">
   </div>
 </div>
-[[Mathraining Profile](https://www.mathraining.be/users/1547)]
+[[Mathraining Profile](https://www.mathraining.be/users/1547)] [[Results](https://maths-olympiques.fr/wp-content/uploads/2018/10/R%C3%A9sultats_coupe_automne_2018.pdf)]
 
 ---
