@@ -5,13 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 
-
+---
 ## **M.Sc. 1 - cog-SUP**
 
 - **Institution**: Sorbonne Université, France
 - **Degree**: Cognitive science
 - **Duration**: 2024 - 2025
-- **Minor**: Philosophy
+- **Track**: Philosophy
 
 
 ## **M.Sc. 2 - MVA (Mathematics, Vision, Apprentissage)**
