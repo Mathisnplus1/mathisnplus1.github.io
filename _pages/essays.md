@@ -18,6 +18,6 @@ author_profile: true
 
 ---
 
-## Emergence & modeling
+## Emergence & Complexity
 
 (in progress)
