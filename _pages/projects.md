@@ -15,7 +15,6 @@ author_profile: true
     <img src="/images/ARC.png" alt="ARC" style="max-width: 90%;">
   </div>
 </div>
-[[Paper](/incoming.html)] [[GitHub](/incoming.html)]
 
 ---
 ## Graph Signal Processing
