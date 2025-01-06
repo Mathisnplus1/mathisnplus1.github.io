@@ -5,19 +5,20 @@ permalink: /essays/
 author_profile: true
 ---
 
----
+<!-- ---
 ## The Case for Meta-Expertise: Why We Need Experts in Experts
 
-(in progress)
+(in progress) 
+-->
 
 ---
 
 ## About the ability to agree upon models
 
-(in progress)
+(January)
 
 ---
 
-## Emergence & Complexity
+## Emergence, Complexity, Contraints
 
-(in progress)
+(January)
