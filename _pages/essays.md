@@ -13,12 +13,18 @@ author_profile: true
 
 ---
 
+## Artificial Reasoning : A Problem Statement
+
+[[Paper](/files/Artificial_Reasoning_A_Problem_Statement.pdf)]
+
+---
+
 ## About the ability to agree upon models
 
-(January)
+(Available in february 2025)
 
 ---
 
 ## Emergence, Complexity, Contraints
 
-(January)
+(Available in february 2025)
