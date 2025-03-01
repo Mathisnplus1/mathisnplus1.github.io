@@ -21,10 +21,10 @@ author_profile: true
 
 ## About the ability to agree upon models
 
-(Available in february 2025)
+(Available in March 2025)
 
 ---
 
 ## Emergence, Complexity, Contraints
 
-(Available in february 2025)
+(Available in March 2025)
