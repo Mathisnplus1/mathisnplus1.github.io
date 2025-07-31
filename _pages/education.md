@@ -11,7 +11,11 @@ author_profile: true
 - **Institution**: Sorbonne Université, France
 - **Degree**: Cognitive science
 - **Duration**: 2024 - 2025
-- **Track**: Philosophy
+- **Coursework**:
+  - Reinforcement Learning for Cognitive Modeling
+  - Philosophy of Mind Reasoning, Physics
+  - Bayesian Data Analysis
+  - Advanced Logic
 
 
 ## **M.Sc. 2 - MVA (Mathematics, Vision, Apprentissage)**

@@ -10,6 +10,15 @@ redirect_from:
 
 ---
 
+## AI Research Intern
+4 months<br>
+May. 2025 - Aug. 2025
+
+Contributed to the development of [Neuralk-AI](https://www.neuralk-ai.com/)’s Tabular Foundation Model (NICL) by improving upon state-of-the-art synthetic data generators and building a flexible library to optimize them. These generators produce the synthetic data used to pretrain NICL and play a key role in enabling the model to generalize across diverse tabular data use cases, powering high-impact enterprise applications in commerce and beyond. 
+[[GitHub](https://github.com/Neuralk-AI)]
+
+---
+
 ## Research Internship
 5 months<br>
 Apr. 2024 - Aug. 2024
