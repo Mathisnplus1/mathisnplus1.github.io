@@ -11,29 +11,16 @@ redirect_from:
 ---
 
 ## AI Scientist Intern
-4 months<br>
-May. 2025 - Aug. 2025
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">
-    <p>Contributed to the development of <a href="https://www.neuralk-ai.com/">Neuralk AI</a>’s Tabular Foundation Model (NICL) by improving upon state-of-the-art synthetic data generators and building a flexible library to optimize them. These generators produce the synthetic data used to pretrain NICL and play a key role in enabling the model to generalize across diverse tabular data use cases, powering high-impact enterprise applications in commerce and beyond.</p>
+    <p>4 months<br>
+    May. 2025 - Aug. 2025<br>
+    Contributed to the development of <a href="https://www.neuralk-ai.com/">Neuralk AI</a>’s Tabular Foundation Model (NICL) by improving upon state-of-the-art synthetic data generators and building a flexible library to optimize them. These generators produce the synthetic data used to pretrain NICL and play a key role in enabling the model to generalize across diverse tabular data use cases, powering high-impact enterprise applications in commerce and beyond.</p>
   </div>
   <div style="flex: 1;">
-    <div style="max-width: 600px; margin: 20px auto; border: 1px solid #e1e9ee; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); overflow: hidden; font-family: Arial, sans-serif;">
-  <div style="background: #0a66c2; color: white; padding: 12px 16px; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;">
-    <a href="https://fr.linkedin.com/company/neuralk-ai">Neuralk AI</a>
-  </div>
-  <div style="padding: 16px; font-size: 15px; color: #333; line-height: 1.4;">
-    We’re thrilled to welcome <strong>Mathis Reymond</strong> to the Neuralk-AI team as an AI Scientist! 🎉 
-  </div>
-  <a href="https://www.linkedin.com/posts/neuralk-ai_were-thrilled-to-welcome-mathis-reymond-activity-7361328203036037120-DVzw" target="_blank" style="display: block; text-align: center; background: #0a66c2; color: white; text-decoration: none; padding: 12px; font-weight: bold; font-size: 14px;">
-    View Post on LinkedIn
-  </a>
-</div>
-
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7357056042989428736?collapsed=1" height="250" width="350" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
   </div>
 </div>
-
 [[GitHub](https://github.com/Neuralk-AI)]
 
 ---
