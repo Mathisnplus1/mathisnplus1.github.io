@@ -10,7 +10,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">
     <p>
-      In this work we introduce a custom distance metric for non-parametric supervised learning algorithms when each data sample comes as a collection of pairs of means and standard deviations, rather than a single fixed vector. Unlike traditional metrics such Euclidean distance, this approach accounts for uncertainty and variability in each feature, making it more robust to fluctuations. By leveraging variance as informative data, the metric can better discriminate between stable and volatile samples, improving on classic algorithms performances in contexts where distributional information matters.
+      In this work we introduce a custom distance metric for <b>non-parametric supervised learning</b> algorithms when each data sample comes as a collection of pairs of means and standard deviations, rather than a single fixed vector. Unlike traditional metrics such Euclidean distance, this approach accounts for <b>uncertainty</b> and variability in each feature, making it more robust to fluctuations. By leveraging variance as informative data, the metric can better discriminate between stable and volatile samples, improving on classic algorithms performances in contexts where <b>distributional information matters</b>.
     </p>
     <div style="text-align: center; margin-top: 15px;">
       <img src="/images/custom_knn.png" alt="custom_knn" style="max-width: 80%; display: inline-block;">
