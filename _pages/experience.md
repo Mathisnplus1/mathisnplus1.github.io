@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-## AI Scientist Intern
+## AI Scientist Intern - [Neuralk-AI](https://www.neuralk-ai.com/)
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">
     <p>4 months<br>
@@ -25,33 +25,33 @@ redirect_from:
 
 ---
 
-## Research Internship
+## Research Internship - [ETHZ](https://ethz.ch/en.html)
 5 months<br>
 Apr. 2024 - Aug. 2024
 
 <div style="flex: 1; text-align: justify; margin-right: 20px;">
-    <p>I've done a five-month internship at the <a href="https://www.ini.uzh.ch/en/research/groups/EIS/Research.html">Institute of Neuroinformatics</a> in Zurich as an ETH Zurich student. My research focuses on artificial neurogenesis in the context of hardware-constrained continual learning. Specifically, my team previously developed a neuromorphic hardware chip called <a href="https://www.nature.com/articles/s41467-023-44365-x">MOSAIC</a> for in-memory computing. I am now investigating the development of a neurogenesis approach to continual learning, which we plan to implement on our MOSAIC chip.</p>
+    <p>I've done a five-month internship at the <a href="https://www.ini.uzh.ch/en/research/groups/EIS/Research.html">Institute of Neuroinformatics</a> in Zurich as an ETH Zurich student. My research focused on artificial neurogenesis in the context of hardware-constrained continual learning. Specifically, my team previously developed a neuromorphic hardware chip called <a href="https://www.nature.com/articles/s41467-023-44365-x">MOSAIC</a> for in-memory computing. I have been investigating the development of a neurogenesis approach to continual learning, designed to be implemented on MOSAIC chips.</p>
 </div>
 
 [[GitHub](https://github.com/Mathisnplus1/Master-Thesis)]
 
 ---
 
-## Research Internship
+## Research Internship - [CNRS](https://www.cnrs.fr/fr)
 3 months<br>
 May 2023 - Jul 2023
 
 <div style="flex: 1; text-align: justify; margin-right: 20px;">
     <p>The goal of this research internship was to delve deeper into research project below.
     <br><br>
-    I conducted an in-depth investigation of Domain Adversarial Neural Networks, including a comparative review of various architectures and the refinement of the most relevant one to deal with highly imbalanced High Energy Physics datasets. More precisely, I embedded the domain information of each sample into the input space, which enabled the model greater flexibility in building the decision boundary.</p>
+    During a 3 months intenrship at <a href="https://home.cern/fr">CERN</a>, I conducted an in-depth investigation of Domain Adversarial Neural Networks, including a comparative review of various architectures and the refinement of the most relevant one to deal with highly imbalanced High Energy Physics datasets. More precisely, I embedded the domain information of each sample into the input space, which enabled the model greater flexibility in building the decision boundary.</p>
 </div>
 
 [[Paper](https://github.com/Mathisnplus1/fair-universe/blob/main/Internship/technical_report.pdf)] [[GitHub](https://github.com/Mathisnplus1/fair-universe/tree/main/Internship)]
 
 ---
 
-## Research Project
+## Research Project - [LBNL](https://www.lbl.gov/)
 6 months<br>
 Oct. 2022 - Mar. 2023
 
