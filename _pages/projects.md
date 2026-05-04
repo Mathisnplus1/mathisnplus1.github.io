@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ---
+## CogGames - National Research Initiative for Cognitive Science
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: justify; margin-right: 20px;">
+    <p>Jun. 2024 - Present<br>
+    As one of the most active members of <b>CogGames</b>, a French national research initiative at the intersection of <b>cognitive science</b> and <b>artificial intelligence</b>, I take part in conferences, workshops, and meetings bringing together neuroscientists, AI researchers, linguists, experimental psychologists, and philosophers. I am leading the writing of an interdisciplinary paper surveying synergies between AI and cognitive science (with 7 researchers), and co-authoring a second paper on language in cognitive science. My contribution focuses on (1) what current language and reasoning models lack compared to human capabilities, and (2) the extent to which advances in <b>LLMs</b> do — or do not — constitute a break from traditional cognitivist theories of language.</p>
+  </div>
+</div>
+
+
+---
 ## Probabilistic Multivariate Gaussian Distance for Uncertainty-Aware Learning
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">

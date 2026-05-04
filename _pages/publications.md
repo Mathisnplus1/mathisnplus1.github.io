@@ -7,6 +7,11 @@ author_profile: true
 
 
 ---
+## 2026
+
+| [In progress] | <b>AI and Cognitive Science: A Mirror, a Tool, and a Challenge</b>, L. Cohen et al., M. Reymond
+| [In progress] | <b>Language in Cognitive Science: an Interdisciplinary Panorama</b>, M. Reymond et al.
+
 ## 2025
 
 | [In progress] | <b>  Illusion of Reasoning: Probing Abstraction Limits in LLMs</b>, N. de Leeuw , M. Nahon, M. Reymond, R. Chatila, M. Khamassi

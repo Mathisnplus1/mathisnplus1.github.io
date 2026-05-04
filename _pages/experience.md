@@ -10,6 +10,23 @@ redirect_from:
 
 ---
 
+## AI Scientist Intern - [Project Numina](https://projectnumina.ai/)
+<div style="flex: 1; text-align: justify; margin-right: 20px;">
+    <p>Feb. 2026 - Present<br>
+    Working at <a href="https://projectnumina.ai/">Project Numina</a>, a non-profit advancing open-source AI for science. I am developing an optimization system that combines Reinforcement Learning with Graph Neural Networks to tackle mathematically complex problems involving symbolic computation and poly-exponential complexity growth. The training pipeline scales RL agents across high-dimensional search spaces using Ray for distributed multi-GPU training. <em>(Temporary NDA — further details available upon request.)</em></p>
+</div>
+
+---
+
+## AI Research Assistant - [CNRS - Laboratoire de Linguistique Formelle](https://www.llf.cnrs.fr/en)
+<div style="flex: 1; text-align: justify; margin-right: 20px;">
+    <p>5 months<br>
+    Sep. 2025 - Jan. 2026<br>
+    Modeling the acquisition of language capabilities in Large Language Models. I implemented a time-series based surprisal analysis on a controlled dataset of grammatical vs. ungrammatical constructions to investigate the dynamics of grammar acquisition during LLM training.</p>
+</div>
+
+---
+
 ## AI Scientist Intern - [Neuralk-AI](https://www.neuralk-ai.com/)
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: justify; margin-right: 20px;">

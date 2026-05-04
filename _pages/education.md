@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 ---
+## **M.Sc. 2 - cog-SUP**
+
+- **Institution**: Sorbonne Université & Université Paris Cité, France
+- **Degree**: Cognitive science - Philosophy track
+- **Duration**: 2025 - 2026
+- **Coursework**:
+  - Philosophy of Economics
+  - Advanced Reinforcement Learning Applied to Cognitive Science
+  - Computational Language Modeling and Cognition
+  - Advanced Issues in Philosophy of Cognitive Science
+
+
 ## **M.Sc. 1 - cog-SUP**
 
 - **Institution**: Sorbonne Université, France
