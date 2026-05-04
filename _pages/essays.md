@@ -6,11 +6,6 @@ author_profile: true
 
 ---
 
-## About the Ability to Agree Upon Models
-
-(Available in September 2025)
-
----
 ## Les Modèles de Langage Face aux Théories Cognitivistes du Langage
 *Mai 2025*
 

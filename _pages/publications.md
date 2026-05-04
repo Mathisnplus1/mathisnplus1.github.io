@@ -14,8 +14,7 @@ author_profile: true
 
 ## 2025
 
-| [In progress] | <b>  Illusion of Reasoning: Probing Abstraction Limits in LLMs</b>, N. de Leeuw , M. Nahon, M. Reymond, R. Chatila, M. Khamassi
-| [In progress] | <b> GroHess : a Hessian-Guided Approach to Neuro-Genesis for Continual Learning</b>, M. Reymond, K. Raghunathan, M. Payvand
+| [[Paper](https://arxiv.org/abs/2512.20812)] | <b>Semantic Deception: When Reasoning Models Can't Compute an Addition</b>, N. de Leeuw, M. Nahon, M. Reymond, R. Chatila, M. Khamassi
 
 ## 2024
 

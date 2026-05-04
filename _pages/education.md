@@ -6,28 +6,22 @@ author_profile: true
 ---
 
 ---
-## **M.Sc. 2 - cog-SUP**
+
+
+
+## **M.Sc. 1 & 2 - cog-SUP**
 
 - **Institution**: Sorbonne Université & Université Paris Cité, France
-- **Degree**: Cognitive science - Philosophy track
-- **Duration**: 2025 - 2026
-- **Coursework**:
-  - Philosophy of Economics
-  - Advanced Reinforcement Learning Applied to Cognitive Science
-  - Computational Language Modeling and Cognition
-  - Advanced Issues in Philosophy of Cognitive Science
-
-
-## **M.Sc. 1 - cog-SUP**
-
-- **Institution**: Sorbonne Université, France
 - **Degree**: Cognitive science
-- **Duration**: 2024 - 2025
+- **Duration**: 2024 - 2026
 - **Coursework**:
   - Reinforcement Learning for Cognitive Modeling
+  - Computational Language Modeling and Cognition
+  - Advanced Logic
+  - Advanced Issues in Philosophy of Cognitive Science
   - Philosophy of Mind Reasoning, Physics
   - Bayesian Data Analysis
-  - Advanced Logic
+  
 
 
 ## **M.Sc. 2 - MVA (Mathematics, Vision, Apprentissage)**
@@ -37,10 +31,10 @@ author_profile: true
 - **Duration**: 2023 - 2024
 - **Coursework**:
   - Deep Learning
-  - Natural Language Processing
-  - Optimization
+  - Convex Optimization
   - Topology, Geometry & Graphs for Machine Learning
   - Algorithms for Time Series
+  - Natural Language Processing
 
 
 ## **M.Sc. 1 - Artificial Intelligence**
@@ -51,6 +45,7 @@ author_profile: true
 - **Coursework**:
   - Natural Language Processing
   - Machine Learning
+  - General Statistics
 
 
 ## **B.Sc. 3 - General Mathematics & Applications**
@@ -58,11 +53,11 @@ author_profile: true
 - **Institution**: Université Claude Bernard Lyon 1, France
 - **Degree**: Mathematics
 - **Duration**: 2021-2022
-- **Minor**: Computer Science 
+- **Minor**: Theoretical Computer Science 
 
 
 ## **B.Sc. 1 & 2 - Preparatory Class in Mathematics & Physics**
 
 - **Institution**: Lycée du Parc, France
 - **Duration**: 2019-2021
-- **Minor**: Computer Science 
+- **Minor**: Theoretical Computer Science 
